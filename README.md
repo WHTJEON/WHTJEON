@@ -10,7 +10,7 @@ Hi! My name is **vank0n**, who calls myself a <em>**techno-savvy**</em>.
 - Raised / Living in **Seoul, South Korea** 🇰🇷 
 - Interested in **Physics**, **Mechanical-Engineering**, **Hacking**, **Cyber Security**, and **Design**
 - A **Data-Hoarder** hoarding more than 100TB of data (personal backup, movies, tv shows, etc)
-- Loyal Customer of **Apple**  / Big Fan of [**OHMYGIRL**](https://www.youtube.com/channel/UC-qYkzKFdekoEniRu_FS3zg)
+- Loyal Customer of **Apple** 
 - Mostly developing **automation scripts** that make life easier and abundant
 - Love to spend time **decompiling** and **inspecting** softwares and services (Reverse-Engineering)
 
