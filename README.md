@@ -13,7 +13,7 @@ Hi! My name is **vank0n**, who calls myself a <em>**techno-savvy**</em>.
 - Loyal Customer of **Apple** 
 - Mostly developing **automation scripts** that make life easier and abundant
 - Love to spend time **decompiling** and **inspecting** softwares and services (Reverse-Engineering)
-- Constantly reversing DRM Solutions (Widevine, Playready, Fairplay)
+- Constantly reversing **DRM Solutions** (Widevine, Playready, Fairplay)
 
 
 <h2> Tech I've used at least once </h2>
