@@ -9,7 +9,7 @@ Hi! My name is **vank0n**, who calls myself a <em>**techno-savvy**</em>.
 - Born in **Alberta, Canada** 🇨🇦 (Dual-Citizenship)
 - Raised / Living in **Seoul, South Korea** 🇰🇷 
 - Interested in **Physics**, **Mechanical-Engineering**, **Hacking**, **Cyber Security**, and **Design**
-- A **Data-Hoarder** hoarding more than 100TB of data (personal backup, movies, tv shows, etc)
+- A **Data-Hoarder** hoarding more than 200TB of data (personal backup, movies, tv shows, etc)
 - Loyal Customer of **Apple** 
 - Mostly developing **automation scripts** that make life easier and abundant
 - Love to spend time **decompiling** and **inspecting** softwares and services (Reverse-Engineering)
