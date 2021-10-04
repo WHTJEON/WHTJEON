@@ -1,7 +1,3 @@
-<h2> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
-<p align='center'>
-
-Hi! My name is **vank0n**, who calls myself a <em>**techno-savvy**</em>.
 <h2> About Me </h2>
 
 <img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/WHTJEON/WHTJEON/a06567a7305fd09e4dc598d3a52c5e6c9045d4de/git-header.svg" />
@@ -9,7 +5,7 @@ Hi! My name is **vank0n**, who calls myself a <em>**techno-savvy**</em>.
 - Born in **Alberta, Canada** 🇨🇦 (Dual-Citizenship)
 - Raised / Living in **Seoul, South Korea** 🇰🇷 
 - Interested in **Physics**, **Mechanical-Engineering**, **Hacking**, **Cyber Security**, and **Design**
-- A **Data-Hoarder** hoarding more than 200TB of data (personal backup, movies, tv shows, etc)
+- A **Data-Hoarder** hoarding more than 200TB of data
 - Loyal Customer of **Apple** 
 - Mostly developing **automation scripts** that make life easier and abundant
 - Love to spend time **decompiling** and **inspecting** softwares and services (Reverse-Engineering)
