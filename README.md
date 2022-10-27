@@ -2,12 +2,11 @@
 
 <img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/WHTJEON/WHTJEON/a06567a7305fd09e4dc598d3a52c5e6c9045d4de/git-header.svg" />
 
-- Born in **Alberta, Canada** 🇨🇦 (Dual-Citizenship)
+- Born in **Alberta, Canada** 🇨🇦
 - Raised / Living in **Seoul, South Korea** 🇰🇷 
 - Interested in **Physics**, **Mechanical-Engineering**, **Hacking**, **Cyber Security**, and **Design**
-- A **Data-Hoarder** hoarding more than 200TB of data
+- A **Data-Hoarder** hoarding more than [removed] of data
 - Loyal Customer of **Apple** 
-- Mostly developing **automation scripts** that make life easier and abundant
 - Love to spend time **decompiling** and **inspecting** softwares and services (Reverse-Engineering)
 
 
