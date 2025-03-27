@@ -6,7 +6,7 @@
 - 🇰🇷🇨🇦 **Korean-Canadian** living in **South Korea**
 - 📚 Studying **Economics** & **Computer Science**
 - 🔭 **Physics & Astronomy** nerd - space is way too cool
-- 🛠 **Reverse Engineering** enthusiast & active **Bug Bounty Hunter**
+- 🛠 **Reverse Engineering** enthusiast & **Bug Bounty Hunter**
 - 📦 **Data Hoarder** (for totally justifiable reasons)
 - 🏎 **Formula 1** fanatic - race weekends are sacred
 
