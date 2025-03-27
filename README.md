@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/WHTJEON/WHTJEON/a06567a7305fd09e4dc598d3a52c5e6c9045d4de/git-header.svg" />
 
-- 🇨🇦 Born in **Canada**, now calling 🇰🇷 **South Korea** home
+- 🇨🇦🇰🇷 **Korean-Canadian** living in South Korea
 - 📚 Studying **Economics** & **Computer Science**
 - 🔭 **Physics & Astronomy** nerd - space is way too cool
 - 🛠 **Reverse Engineering** enthusiast & active **Bug Bounty Hunter**
