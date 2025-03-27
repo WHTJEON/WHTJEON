@@ -1,4 +1,3 @@
----
 <h2> About Me </h2>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/WHTJEON/WHTJEON/a06567a7305fd09e4dc598d3a52c5e6c9045d4de/git-header.svg" />
