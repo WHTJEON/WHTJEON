@@ -1,4 +1,3 @@
----
 ## About Me
 - 🇰🇷🇨🇦 **Korean-Canadian** living in **South Korea** <img align="right" src="https://github-readme-stats.vercel.app/api?username=WHTJEON&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
 - 📚 Studying **Economics** & **Computer Science**
